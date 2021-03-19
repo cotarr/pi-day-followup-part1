@@ -12,6 +12,4 @@ https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2
 
 If you use the c example, be careful not to overwrite add.s if you compile add.c to assembly language.
 
-YouTube video:
-
-https://youtu.be/ovWl8qQYWwk
+Watch the [YouTube Video](https://youtu.be/ovWl8qQYWwk)
